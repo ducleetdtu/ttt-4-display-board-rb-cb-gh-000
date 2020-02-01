@@ -8,5 +8,4 @@ def display_board(state)
   puts " #{state[6]} | #{state[7]} | #{state[8]}"
 
 end
-board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
-display_board(board)
+display_board([])
