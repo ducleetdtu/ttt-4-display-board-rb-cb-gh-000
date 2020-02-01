@@ -9,4 +9,4 @@ def display_board(state=[" "," "," "," "," "," "," "," "," "])
 
 end
 board = []
-display_board(board)
+display_board()
